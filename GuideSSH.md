@@ -1,4 +1,4 @@
-# shh_gen
+# SSH key 
 Generating an SSH Key Pair 
 
 This command creates an SSH key pair using the ed25519 algorithm, which is a modern and secure option.
