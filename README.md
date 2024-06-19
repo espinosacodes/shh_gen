@@ -1,7 +1,9 @@
 # shh_gen
 
-
+```
 ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519
+
+```
 
 eval "$(ssh-agent -s)" 
 
